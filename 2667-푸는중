@@ -23,6 +23,11 @@
 단지수 = 집 - 1
  
 */
+
+//https://www.acmicpc.net/problem/2667
+
+
+
 #include <stdio.h>
 #define DANJI_SIZE 315
 
